@@ -1,7 +1,7 @@
 # TimeComplexity
- Evaluating Time Complexity - For GaonHS Mathmatics Present
+ Evaluating Time Complexity - For Gaon Mathematics Present
  
- #Run
+ # Run
  1. Clone the repository
  2. Install Node.Js
  3. Run Powershell or Command Prompt in repo directory
